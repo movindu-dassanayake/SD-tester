@@ -176,4 +176,4 @@ sr = np.array(sample_rate)
 #np.savetxt(f'/home/pi/Desktop/Figs and data/SPI/In Lab measurements/Data/PSD off at {sample_rate}.txt', (v1, v2)) 
 
 print(f'Sample rate is {sample_rate} Hz')
-plotting(voltages1, voltages2, sample_rate, SD_name='SanDisk')
+plotting(voltages1, voltages2, sample_rate, SD_name='SanDisk 2')
